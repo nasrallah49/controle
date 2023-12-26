@@ -1,0 +1,6 @@
+input computerDTOInput{
+    proce: String
+    ram: Int
+    price:Float
+    HardDrive: Int
+}
